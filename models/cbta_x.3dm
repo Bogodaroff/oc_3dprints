@@ -1,0 +1,278 @@
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,4,texture = "iron_block", tint = 0x888888 },
+    { 0,0,4,8,2,8,texture = "iron_block", tint = 0x888888 },
+    { 0,0,8,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 4,0,0,8,2,8,texture = "iron_block", tint = 0x888888 },
+    { 8,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 0,2,4,7,4,7,texture = "iron_block", tint = 0x888888 },
+    { 4,2,0,7,4,7,texture = "iron_block", tint = 0x888888 },
+    { 0,4,4,6,5,6,texture = "iron_block", tint = 0x888888 },
+    { 4,4,0,6,5,6,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,8,texture = "iron_block", tint = 0xbbbbbb },
+    { 0,0,8,8,2,16,texture = "iron_block", tint = 0x888888 },
+    { 8,0,8,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 0,2,9,7,4,16,texture = "iron_block", tint = 0x888888 },
+    { 0,4,10,6,5,16,texture = "iron_block", tint = 0x888888 },
+    { 0,5,12,4,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,4,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,12,4,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,4,texture = "iron_block", tint = 0x888888 },
+    { 0,4,4,5,16,5,texture = "iron_block", tint = 0x888888 },
+    { 4,4,0,5,16,5,texture = "iron_block", tint = 0x888888 },
+    { 0,7,5,6,16,6,texture = "iron_block", tint = 0x888888 },
+    { 5,7,0,6,16,6,texture = "iron_block", tint = 0x888888 },
+    { 0,9,6,7,16,7,texture = "iron_block", tint = 0x888888 },
+    { 6,9,0,7,16,7,texture = "iron_block", tint = 0x888888 },
+    { 0,10,7,8,16,8,texture = "iron_block", tint = 0x888888 },
+    { 7,10,0,8,16,8,texture = "iron_block", tint = 0x888888 },
+    { 0,11,8,9,16,9,texture = "iron_block", tint = 0x888888 },
+    { 8,11,0,9,16,9,texture = "iron_block", tint = 0x888888 },
+    { 0,12,9,10,16,10,texture = "iron_block", tint = 0x888888 },
+    { 9,12,0,10,16,10,texture = "iron_block", tint = 0x888888 },
+    { 0,13,10,12,16,12,texture = "iron_block", tint = 0x888888 },
+    { 10,13,0,12,16,12,texture = "iron_block", tint = 0x888888 },
+    { 0,14,12,15,16,15,texture = "iron_block", tint = 0x888888 },
+    { 12,14,0,15,16,15,texture = "iron_block", tint = 0x888888 },
+    { 0,15,15,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 15,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,12,4,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,4,11,5,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,7,10,6,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,9,9,7,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,10,8,8,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,11,7,9,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,12,6,10,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,13,4,12,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,14,1,15,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,8,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 8,0,0,16,2,8,texture = "iron_block", tint = 0x888888 },
+    { 8,0,8,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 9,2,0,16,4,7,texture = "iron_block", tint = 0x888888 },
+    { 10,4,0,16,5,6,texture = "iron_block", tint = 0x888888 },
+    { 12,5,0,16,16,4,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,0,0,8,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 8,0,0,16,1,8,texture = "iron_block", tint = 0xbbbbbb },
+    { 8,0,8,16,2,16,texture = "iron_block", tint = 0x888888 },
+    { 9,2,9,16,4,16,texture = "iron_block", tint = 0x888888 },
+    { 10,4,10,16,5,16,texture = "iron_block", tint = 0x888888 },
+    { 12,5,12,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 12,0,0,16,16,4,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 12,0,12,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 12,0,0,16,16,4,texture = "iron_block", tint = 0x888888 },
+    { 11,4,0,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 10,7,0,16,16,6,texture = "iron_block", tint = 0x888888 },
+    { 9,9,0,16,16,7,texture = "iron_block", tint = 0x888888 },
+    { 8,10,0,16,16,8,texture = "iron_block", tint = 0x888888 },
+    { 7,11,0,16,16,9,texture = "iron_block", tint = 0x888888 },
+    { 6,12,0,16,16,10,texture = "iron_block", tint = 0x888888 },
+    { 4,13,0,16,16,12,texture = "iron_block", tint = 0x888888 },
+    { 1,14,0,16,16,15,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Пересечение коридоров. 3х3х3",
+  shapes = {
+    { 12,0,12,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 11,4,11,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,7,10,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 9,9,9,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 8,10,8,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 7,11,7,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 6,12,6,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,13,4,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 1,14,1,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+}
