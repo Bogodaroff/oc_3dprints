@@ -1,0 +1,279 @@
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,0,0,10,16,5,texture = "iron_block", tint = 0x888888 },
+    { 10,0,0,16,1,5,texture = "iron_block", tint = 0x888888 },
+    { 10,1,0,11,16,1,texture = "iron_block", tint = 0x888888 },
+    { 10,1,1,12,2,5,texture = "iron_block", tint = 0x888888 },
+    { 11,1,0,12,2,5,texture = "iron_block", tint = 0x888888 },
+    { 12,1,0,13,2,1,texture = "iron_block", tint = 0x888888 },
+    { 12,1,1,13,16,4,texture = "iron_block", tint = 0x0099ff },
+    { 12,1,4,13,2,5,texture = "iron_block", tint = 0x888888 },
+    { 10,2,1,11,3,5,texture = "iron_block", tint = 0x888888 },
+    { 11,2,0,12,3,1,texture = "iron_block", tint = 0x888888 },
+    { 11,2,1,13,16,4,texture = "iron_block", tint = 0x0099ff },
+    { 11,2,4,12,3,5,texture = "iron_block", tint = 0x888888 },
+    { 10,3,1,13,16,4,texture = "iron_block", tint = 0x0099ff },
+    { 10,3,4,11,16,5,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,0,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,0,0,10,16,5,texture = "iron_block", tint = 0x888888 },
+    { 10,0,0,11,16,1,texture = "iron_block", tint = 0x888888 },
+    { 10,0,1,13,16,4,texture = "iron_block", tint = 0x0099ff },
+    { 10,0,4,11,16,5,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,0,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,0,0,10,16,5,texture = "iron_block", tint = 0x888888 },
+    { 10,0,0,11,16,1,texture = "iron_block", tint = 0x888888 },
+    { 10,0,1,13,3,4,texture = "iron_block", tint = 0x0099ff },
+    { 10,0,4,11,16,5,texture = "iron_block", tint = 0x888888 },
+    { 10,3,1,11,16,5,texture = "iron_block", tint = 0x888888 },
+    { 11,3,0,12,16,1,texture = "iron_block", tint = 0x888888 },
+    { 11,3,1,13,4,4,texture = "iron_block", tint = 0x0099ff },
+    { 11,3,4,12,16,5,texture = "iron_block", tint = 0x888888 },
+    { 11,4,1,12,16,5,texture = "iron_block", tint = 0x888888 },
+    { 12,4,0,13,16,1,texture = "iron_block", tint = 0x888888 },
+    { 12,4,1,13,5,4,texture = "iron_block", tint = 0x0099ff },
+    { 12,4,4,13,16,5,texture = "iron_block", tint = 0x888888 },
+    { 12,5,1,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 13,5,0,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 2,15,5,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,2,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,0,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 2,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,5,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,5,0,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 0,15,5,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,1,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,5,texture = "iron_block", tint = 0x888888 },
+    { 14,0,5,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 3,1,0,16,2,1,texture = "iron_block", tint = 0x888888 },
+    { 3,1,1,4,16,4,texture = "iron_block", tint = 0x0099ff },
+    { 3,1,4,16,2,5,texture = "iron_block", tint = 0x888888 },
+    { 4,1,1,16,2,5,texture = "iron_block", tint = 0x888888 },
+    { 4,2,0,16,3,1,texture = "iron_block", tint = 0x888888 },
+    { 4,2,1,5,16,4,texture = "iron_block", tint = 0x0099ff },
+    { 4,2,4,16,3,5,texture = "iron_block", tint = 0x888888 },
+    { 5,2,1,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 5,3,0,16,16,5,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 0,0,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 3,0,1,5,16,4,texture = "iron_block", tint = 0x0099ff },
+    { 5,0,0,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 14,0,5,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 1,0,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 3,0,1,5,4,4,texture = "iron_block", tint = 0x0099ff },
+    { 5,0,0,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 14,0,5,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,3,0,16,16,1,texture = "iron_block", tint = 0x888888 },
+    { 4,3,4,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 3,4,0,16,16,1,texture = "iron_block", tint = 0x888888 },
+    { 3,4,1,4,5,4,texture = "iron_block", tint = 0x0099ff },
+    { 3,4,4,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 4,4,1,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 0,5,0,16,16,5,texture = "iron_block", tint = 0x888888 },
+    { 0,15,5,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Лифт",
+  tooltip = "Лифт. Вариант 1. 3х3х3",
+  shapes = {
+    { 1,0,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,1,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+}
