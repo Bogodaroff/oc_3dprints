@@ -1,0 +1,322 @@
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,0,0,6,5,16,texture = "iron_block", tint = 0x888888 },
+    { 6,0,0,8,2,16,texture = "iron_block", tint = 0x888888 },
+    { 8,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 6,2,0,7,4,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,0,0,6,5,16,texture = "iron_block", tint = 0x888888 },
+    { 6,0,0,8,2,16,texture = "iron_block", tint = 0x888888 },
+    { 8,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 6,2,0,7,4,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,0,0,6,5,16,texture = "iron_block", tint = 0x888888 },
+    { 6,0,0,8,2,16,texture = "iron_block", tint = 0x888888 },
+    { 8,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 6,2,0,7,4,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,4,0,5,16,16,texture = "iron_block", tint = 0x888888 },
+    { 5,7,0,6,16,16,texture = "iron_block", tint = 0x888888 },
+    { 6,9,0,7,16,16,texture = "iron_block", tint = 0x888888 },
+    { 7,10,0,8,16,16,texture = "iron_block", tint = 0x888888 },
+    { 8,11,0,9,16,16,texture = "iron_block", tint = 0x888888 },
+    { 9,12,0,10,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,13,0,12,16,16,texture = "iron_block", tint = 0x888888 },
+    { 12,14,0,15,16,16,texture = "iron_block", tint = 0x888888 },
+    { 15,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,4,0,5,16,16,texture = "iron_block", tint = 0x888888 },
+    { 5,7,0,6,16,16,texture = "iron_block", tint = 0x888888 },
+    { 6,9,0,7,16,16,texture = "iron_block", tint = 0x888888 },
+    { 7,10,0,8,16,16,texture = "iron_block", tint = 0x888888 },
+    { 8,11,0,9,16,16,texture = "iron_block", tint = 0x888888 },
+    { 9,12,0,10,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,13,0,12,16,16,texture = "iron_block", tint = 0x888888 },
+    { 12,14,0,15,16,16,texture = "iron_block", tint = 0x888888 },
+    { 15,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,4,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,4,0,5,16,16,texture = "iron_block", tint = 0x888888 },
+    { 5,7,0,6,16,16,texture = "iron_block", tint = 0x888888 },
+    { 6,9,0,7,16,16,texture = "iron_block", tint = 0x888888 },
+    { 7,10,0,8,16,16,texture = "iron_block", tint = 0x888888 },
+    { 8,11,0,9,16,16,texture = "iron_block", tint = 0x888888 },
+    { 9,12,0,10,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,13,0,12,16,16,texture = "iron_block", tint = 0x888888 },
+    { 12,14,0,15,16,16,texture = "iron_block", tint = 0x888888 },
+    { 15,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,16,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,8,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 8,0,0,16,2,10,texture = "iron_block", tint = 0x888888 },
+    { 8,0,10,9,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 9,0,10,16,4,11,texture = "iron_block", tint = 0x888888 },
+    { 9,0,11,10,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 10,0,11,16,5,12,texture = "iron_block", tint = 0x888888 },
+    { 10,0,12,11,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 11,0,12,16,5,13,texture = "iron_block", tint = 0x888888 },
+    { 11,0,13,12,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 12,0,13,16,16,14,texture = "iron_block", tint = 0x888888 },
+    { 12,0,14,13,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 13,0,14,16,16,15,texture = "iron_block", tint = 0x888888 },
+    { 13,0,15,14,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 14,0,15,15,16,16,texture = "iron_block", tint = 0x888888 },
+    { 15,0,15,16,1,16,texture = "iron_block", tint = 0x888888 },
+    { 9,2,0,16,4,11,texture = "iron_block", tint = 0x888888 },
+    { 15,2,15,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,4,0,16,5,12,texture = "iron_block", tint = 0x888888 },
+    { 12,5,0,16,16,14,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,15,1,16,texture = "iron_block", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 0,0,0,8,1,16,texture = "iron_block", tint = 0xbbbbbb },
+    { 8,0,0,9,1,6,texture = "iron_block", tint = 0xbbbbbb },
+    { 8,0,6,16,2,16,texture = "iron_block", tint = 0x888888 },
+    { 9,0,0,10,1,5,texture = "iron_block", tint = 0xbbbbbb },
+    { 9,0,5,16,4,16,texture = "iron_block", tint = 0x888888 },
+    { 10,0,0,11,1,4,texture = "iron_block", tint = 0xbbbbbb },
+    { 10,0,4,16,5,16,texture = "iron_block", tint = 0x888888 },
+    { 11,0,0,12,1,3,texture = "iron_block", tint = 0xbbbbbb },
+    { 11,0,3,16,5,16,texture = "iron_block", tint = 0x888888 },
+    { 12,0,0,13,1,2,texture = "iron_block", tint = 0xbbbbbb },
+    { 12,0,2,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 13,0,0,14,1,1,texture = "iron_block", tint = 0xbbbbbb },
+    { 13,0,1,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 12,0,0,16,16,14,texture = "iron_block", tint = 0x888888 },
+    { 13,0,14,16,16,15,texture = "iron_block", tint = 0x888888 },
+    { 14,0,15,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 12,0,2,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 13,0,1,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 12,0,0,16,16,14,texture = "iron_block", tint = 0x888888 },
+    { 13,0,14,16,16,15,texture = "iron_block", tint = 0x888888 },
+    { 14,0,15,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 13,2,15,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 12,3,14,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 11,4,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,7,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 9,9,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 8,10,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 7,11,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 6,12,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,13,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 1,14,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 14,1,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 13,2,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 12,3,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 11,4,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,7,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 9,9,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 8,10,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 7,11,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 6,12,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,13,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 1,14,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+},
+
+{
+  label = "Коридор бункера ТИП-1",
+  tooltip = "Коридор бункера с дверью. 3х3х3",
+  shapes = {
+    { 12,0,2,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 13,0,1,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 14,0,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 13,2,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 12,3,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 11,4,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 10,7,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 9,9,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 8,10,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 7,11,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 6,12,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 4,13,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 1,14,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+    { 0,15,0,16,16,16,texture = "iron_block", tint = 0x888888 },
+  }
+}
